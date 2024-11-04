@@ -1,4 +1,4 @@
-## Travelling-Thief-problem
+## Travelling-Salesman-problem
 
 Objective: 
 The objective is to develop an Evolutionary Algorithm using Python, Numpy, lxml and datetime to 
